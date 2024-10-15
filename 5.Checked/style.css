@@ -1,0 +1,22 @@
+body{
+    font-family: Verdana;
+    font-size: 1em;
+
+}
+#mySubmit{
+    font-size: 1.5em;
+    border-radius: 5px;
+    background: #00ddff;
+    cursor: pointer;
+}
+
+#mySubmit:hover{
+    background: #3aa52a;
+}
+#subResult{
+    color: #a5492a;
+}
+#checked:hover{
+    background: #00ddff;
+
+}

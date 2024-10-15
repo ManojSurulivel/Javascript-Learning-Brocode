@@ -1,0 +1,19 @@
+body{
+    
+    text-align: center;
+}
+#myButton{
+    margin-bottom: 20px;
+    font-size: 3em;
+    padding: 5px 25px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.myLable{
+    font-size: 3em;
+    padding: 5px;
+}
+#random{
+    font-size: 3em;
+    padding: 5px;
+}
